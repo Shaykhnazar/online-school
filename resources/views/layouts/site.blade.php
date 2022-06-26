@@ -41,7 +41,7 @@
 @yield('content')
 
 @include('layouts.footer')
-
+@yield('quizscripts')
 </body>
 
 </html>

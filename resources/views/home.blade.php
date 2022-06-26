@@ -33,12 +33,12 @@
 
             <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon bx bx-chevron-left" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
+                <span class="sr-only">Oldingi</span>
             </a>
 
             <a class="carousel-control-next" href="#heroCarousel" role="button" data-slide="next">
                 <span class="carousel-control-next-icon bx bx-chevron-right" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
+                <span class="sr-only">Keyingi</span>
             </a>
 
         </div>
@@ -54,7 +54,7 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
                         <div class="icon-box icon-box-pink">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h4 class="title"><a href="">SPORT MASHG'ULOTLARI</a></h4>
+                            <h4 class="title"><a href="#">SPORT MASHG'ULOTLARI</a></h4>
                             <p class="description">Maktabimizda sog'lom turmush tarziga ham rioya qilinadi shunga asosan o'quvchilar o'rtasida sportning bir nechta sport turi bo'yicha musobaqalar ham o'tkazib turiladi.</p>
                         </div>
                     </div>
@@ -62,7 +62,7 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                         <div class="icon-box icon-box-cyan">
                             <div class="icon"><i class="bx bx-file"></i></div>
-                            <h4 class="title"><a href="">KUTUBXONA</a></h4>
+                            <h4 class="title"><a href="#">KUTUBXONA</a></h4>
                             <p class="description">Darsdan bo'sh vaqtda o'quvchilarning vaqtlarini samarali o'tkazishlari uchun maktabimizda kutubxona ham mavjud.</p>
                         </div>
                     </div>
@@ -70,7 +70,7 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                         <div class="icon-box icon-box-green">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
-                            <h4 class="title"><a href="">DARS VAQTI</a></h4>
+                            <h4 class="title"><a href="#">DARS VAQTI</a></h4>
                             <p class="description">Darslar vaqtlari o'quvchilarning istagi va mutaxasisslarimizning hohishinga qarab kuiga 5 saot qilib belgilangan.</p>
                         </div>
                     </div>
@@ -78,8 +78,8 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                         <div class="icon-box icon-box-blue">
                             <div class="icon"><i class="bx bx-world"></i></div>
-                            <h4 class="title"><a href="">ONLAYN DARSLIKLAR</a></h4>
-                            <p class="description">IT sohasi bo'yicha ham bir necha hamkor davlatlar bilan ham hamkorlikda bir nechta onlayn darsliklarni almashib o'quvchilar orasida bilimlarini bo'lishish imkoniyati ham yaratilgan.</p>
+                            <h4 class="title"><a href="{{ route('quiz') }}">ONLAYN VIKTORINA</a></h4>
+                            <p class="description">Turli hil sohalar fanlar bo'yicha onlayn test ishlash imkoniyati ham yaratilgan.</p>
                         </div>
                     </div>
 
